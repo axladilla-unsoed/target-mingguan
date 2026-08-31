@@ -2,8 +2,8 @@
 -- Database: target_mingguan
 -- ========================================================
 
-CREATE DATABASE IF NOT EXISTS `target_mingguan` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE `target_mingguan`;
+CREATE DATABASE IF NOT EXISTS `target-mingguan` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE `target-mingguan`;
 
 -- --------------------------------------------------------
 -- Struktur Tabel `tasks`
